@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: LPBF melt pool & AM-Bench
+message: If you use this software, please cite it.
+type: software
+version: 0.1.0
+date-released: 2026-11-24
+license: MIT
+authors:
+  - family-names: Akmal
+    given-names: Ahmad Ishamul Ayady
+abstract: >-
+  Repository E09 of the computational metallurgy portfolio, covering
+  sprints W40–W44.
